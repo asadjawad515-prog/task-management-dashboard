@@ -10,7 +10,8 @@ A responsive task management application built with **React, TypeScript, and Vit
 
 ## 📸 Screenshots
 
-<!-- Add actual project screenshots here after capturing them. -->
+<!-<img width="805" height="358" alt="Screenshot 2026-10-25 120432" src="https://github.com/user-attachments/assets/94e8d2a0-ce08-4978-b0b2-1afc0eb7c72a" />
+- Add actual project screenshots here after capturing them. -->
 
 ### Dashboard
 <!-- Replace with the dashboard screenshot path. -->
