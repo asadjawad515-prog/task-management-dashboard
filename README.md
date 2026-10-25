@@ -17,9 +17,11 @@ A responsive task management application built with **React, TypeScript, and Vit
 <!-- Replace with the dashboard screenshot path. -->
 
 ### All Tasks
+<img width="821" height="417" alt="image" src="https://github.com/user-attachments/assets/9bf85c83-8036-49c0-94c4-f38b782b1de7" />
 <!-- Replace with the All Tasks screenshot path. -->
 
 ### Kanban Board
+<img width="827" height="404" alt="image" src="https://github.com/user-attachments/assets/bc122f29-eae9-4d58-806e-1685778625c6" />
 <!-- Replace with the Kanban Board screenshot path. -->
 
 ### Analytics
