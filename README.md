@@ -10,25 +10,24 @@ A responsive task management application built with **React, TypeScript, and Vit
 
 ## 📸 Screenshots
 
-<!-<img width="805" height="358" alt="Screenshot 2026-10-25 120432" src="https://github.com/user-attachments/assets/94e8d2a0-ce08-4978-b0b2-1afc0eb7c72a" />
-- Add actual project screenshots here after capturing them. -->
+<img width="805" height="358" alt="Screenshot 2026-10-25 120432" src="https://github.com/user-attachments/assets/94e8d2a0-ce08-4978-b0b2-1afc0eb7c72a" />
+ 
 
 ### Dashboard
-<!-- Replace with the dashboard screenshot path. -->
+
 
 ### All Tasks
 <img width="821" height="417" alt="image" src="https://github.com/user-attachments/assets/9bf85c83-8036-49c0-94c4-f38b782b1de7" />
-<!-- Replace with the All Tasks screenshot path. -->
+
 
 ### Kanban Board
 <img width="827" height="404" alt="image" src="https://github.com/user-attachments/assets/bc122f29-eae9-4d58-806e-1685778625c6" />
-<!-- Replace with the Kanban Board screenshot path. -->
+
 
 ### Analytics
-<!-- Replace with the Analytics screenshot path. -->
+
 
 ### Settings
-<!-- Replace with the Settings screenshot path. -->
 
 ## ✨ Features
 
